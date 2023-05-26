@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ewYaIWzwIJQzOsIBx3pV2y2ADP01l3Vwdl0+tjG7kgRkVsUWUhxhtGZmt2hCpERnP6didr2onvwARw8A8PQS/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hector.mcewen\\Desktop\\Tryparse\\Tryparse\\Tryparse\\Tryparse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hector.mcewen\\.nuget\\packages\\imgui.net\\1.89.5\\imgui.net.1.89.5.nupkg.sha512",
+    "C:\\Users\\hector.mcewen\\.nuget\\packages\\raylib-cs\\4.5.0\\raylib-cs.4.5.0.nupkg.sha512",
+    "C:\\Users\\hector.mcewen\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\hector.mcewen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\hector.mcewen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
